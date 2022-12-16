@@ -1,3 +1,5 @@
 # ignor readme.md
 README.md
 
+# ignor .doc
+*.doc
